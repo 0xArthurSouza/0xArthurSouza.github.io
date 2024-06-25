@@ -27,10 +27,11 @@ url: "https://arthursouza37.github.io"
 
 github:
   username: ArthurSouza37
-# twitter:
- # username: twitter_username # change to your twitter username
 
-#social:
+twitter:
+  username: twitter_username # change to your twitter username
+
+social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   #name: your_full_name
